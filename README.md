@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi, I'm Nurs
+### Hi, I'm Nurs 👋
 
 ## About me.
 I am a software developer who loves to write and document what I learn at [my website](https://asanov.me).
