@@ -1,7 +1,7 @@
 ### Hi, I'm Nurs 👋
 
 ## About me.
-I am a software developer who loves to write and document what I learn at [my website](https://google.com).
+<!-- I am a software developer who loves to write and document what I learn at [my website](https://google.com). -->
 
 ### Find me in:
 <a href="https://google.com/">
