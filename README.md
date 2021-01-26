@@ -4,7 +4,7 @@
 <!-- I am a software developer who loves to write and document what I learn at [my website](https://google.com). -->
 
 ### Find me in:
-<a href="https://google.com/">
+<a href="https://hooli.xyz/">
   <img align="left" alt="Nurs's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.linkedin.com/in/linkedinLink">
