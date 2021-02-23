@@ -4,10 +4,10 @@
 <!-- I am a software developer who loves to write and document what I learn at [my website](https://google.com). -->
 
 ### Find me in:
-<a href="https://hooli.xyz/">
+<a href="">
   <img align="left" alt="Nurs's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://www.linkedin.com/in/linkedinLink">
+<a href="">
   <img align="left" alt="Nurs's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/nasanov">
