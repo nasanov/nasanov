@@ -4,14 +4,14 @@
 <!-- I am a software developer who loves to write and document what I learn at [my website](https://google.com). -->
 
 ### Find me in:
-<a href="">
-  <img align="left" alt="Nurs's website" width="22px" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
+<a href="mywebsite.dev">
+  <img align="left" alt="Nurs's website" width="25px" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
 </a>
-<a href="">
-  <img align="left" alt="Nurs's Linkdein" width="22px" src="https://img.icons8.com/color/30/000000/linkedin.png" />
+<a href="mylinkedin">
+  <img align="left" alt="Nurs's Linkdein" width="25px" src="https://img.icons8.com/color/30/000000/linkedin.png" />
 </a>
 <a href="https://github.com/nasanov">
-  <img align="left" alt="Nurs's Github" width="22px" src="https://img.icons8.com/color/30/000000/octocat.png" />
+  <img align="left" alt="Nurs's Github" width="25px" src="https://img.icons8.com/color/30/000000/octocat.png" />
 </a>
 <br/>
 <!--
