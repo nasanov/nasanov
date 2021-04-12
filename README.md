@@ -15,6 +15,7 @@
 </a>
 <br/>
 
+![](https://komarev.com/ghpvc/?username=nasanov)
 <!--
 ### Tech stack and tools I work with:
 <img align="left" src="https://img.icons8.com/color/30/000000/c-programming.png"/>
