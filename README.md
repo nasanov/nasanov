@@ -14,8 +14,10 @@
   <img align="left" alt="Nurs's Github" width="25px" src="https://img.icons8.com/color/30/000000/octocat.png" />
 </a>
 <br/>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=nasanov)
+
 <!--
 ### Tech stack and tools I work with:
 <img align="left" src="https://img.icons8.com/color/30/000000/c-programming.png"/>
