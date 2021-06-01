@@ -50,14 +50,32 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
   
   <br />
  
- <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<p align="center" >
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=nasanov&&show_icons=true&theme=radical"/>
-  </a>
-
+   </a>
 </p>
 <br />
- 
+
+<p align="center" >
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nasanov&theme=dark"/>
+   </a>
+</p>
+
+<p align="center" >
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasanov&theme=radical&layout=compact&hide=c,roff,scss,objective-c,makefile"/>
+   </a>
+</p>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasanov&theme=dark)](https://git.io/streak-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasanov&theme=radical&layout=compact&hide=c,roff)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
+
+
 <!-- <p align="center">
    <img src="https://steemitimages.com/0x0/https://cdn.lifehacker.ru/wp-content/uploads/2017/01/ezgif.com-crop_1484563859.gif" />
    </p> -->
