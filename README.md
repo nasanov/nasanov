@@ -65,11 +65,11 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
    </a>
 </p>
 
-<p align="center" >
+<!-- <p align="center" >
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasanov&theme=radical&layout=compact&hide=c,roff,scss,objective-c,makefile"/>
    </a>
-</p>
+</p> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasanov&theme=dark)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasanov&theme=radical&layout=compact&hide=c,roff)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -89,9 +89,9 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 -->
 
 ### Find me in:
-<a href="mywebsite.dev">
+<!-- <a href="mywebsite.dev">
   <img align="left" alt="Nurs's website" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
-</a>
+</a> -->
 <a href="mylinkedin">
   <img align="left" alt="Nurs's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -104,4 +104,4 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 <br/>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=nasanov)
+<!-- ![](https://komarev.com/ghpvc/?username=nasanov) -->
