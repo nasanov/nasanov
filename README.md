@@ -98,7 +98,7 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 <a href="https://github.com/nasanov">
   <img align="left" alt="Nurs's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="main.dev">
+<a mailto="nursultan.asanov@pm.me">
   <img align="left" alt="Nurs's mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style=" color:'white' "/>
 </a>
 <br/>
