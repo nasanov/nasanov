@@ -90,13 +90,16 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 
 ### Find me in:
 <a href="mywebsite.dev">
-  <img align="left" alt="Nurs's website" width="25px" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
+  <img align="left" alt="Nurs's website" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
 </a>
 <a href="mylinkedin">
-  <img align="left" alt="Nurs's Linkdein" width="25px" src="https://img.icons8.com/color/30/000000/linkedin.png" />
+  <img align="left" alt="Nurs's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/nasanov">
-  <img align="left" alt="Nurs's Github" width="25px" src="https://img.icons8.com/color/30/000000/octocat.png" />
+  <img align="left" alt="Nurs's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="main.dev">
+  <img align="left" alt="Nurs's mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style=" color:'white' "/>
 </a>
 <br/>
 <br/>
