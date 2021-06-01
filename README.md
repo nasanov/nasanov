@@ -18,6 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linuh" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="redux" width="40" height="40">
+   
 </p>
 
 <!--
