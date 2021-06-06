@@ -75,6 +75,18 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasanov&theme=radical&layout=compact&hide=c,roff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
+
+   <img  src="https://github-readme-stats.vercel.app/api?username=nasanov&&show_icons=true&theme=radical"/>
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+   <img  src="https://github-readme-stats.vercel.app/api?username=nasanov&&show_icons=true&theme=radical"/>
+
+</details> -->
 
 
 
